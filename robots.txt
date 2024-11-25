@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /admin/
 Allow: /public/
-Sitemap: https://www.exemple.com/sitemap.xml
+Sitemap: https://my-zigouplex.fr/sitemap.xml
